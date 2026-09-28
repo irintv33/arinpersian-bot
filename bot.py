@@ -70,7 +70,7 @@ async def chat(update: Update, context: ContextTypes.DEFAULT_TYPE):
         print("OpenAI Error:", e)
 
         await update.message.reply_text(
-            "متأسفانه مشکلی پیش آمد. لطفاً دوباره تلاش کنید."
+            "www.irinpersian.ir متأسفانه مشکلی پیش آمد. لطفاً دوباره تلاش کنید."
         )
 
 
